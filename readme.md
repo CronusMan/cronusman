@@ -12,9 +12,9 @@
 <td><img src="https://github.com/user-attachments/assets/324cb2a0-e6cd-482b-9aac-7316c82c611a" alt="109667577" width="200"/></td>
 <td>
 <ul>
-<li>Dependable Proof-of-Stake validator, offering service provision, Inter-Blockchain Communication, and active ecosystem contributions.**</li>
-<li>Stake your crypto, earn rewards, and support Web3 development with our decentralized staking services.**</li>
-<li>Join us in shaping the future of decentralized finance and blockchain technology.**</li>
+<li>Dependable Proof-of-Stake validator, offering service provision, Inter-Blockchain Communication, and active ecosystem contributions.</li>
+<li>Stake your crypto, earn rewards, and support Web3 development with our decentralized staking services.</li>
+<li>Join us in shaping the future of decentralized finance and blockchain technology.</li>
 </ul>
 </td>
 </tr>
