@@ -24,12 +24,12 @@
 
 | Network      | Description |
 |--------------|-------------|
-| [**0G**](https://explorer.validator247.com/zero-gravity-testnet/staking/0gvaloper1krhhaq20pyqa7f89wueel4sxdl38l29tjl55mm) | Dependable Proof-of-Stake validator, offering service provision, Inter-Blockchain Communication, and active ecosystem contributions. |
 | [**Lava**](https://explorer.nodestake.org/lava-testnet/staking/lava@valoper14hvvs4m80qtselug5yj3prqqqmussthsk56r0q) | Stake your crypto, earn rewards, and support Web3 development with our decentralized staking services. |
 | [**Side**](https://testnet.side.explorers.guru/validator/sidevaloper1yxfy26krnulue64ghwvf9xp627jr00a6f4x4fz) | Join us in shaping the future of decentralized finance and blockchain technology. |
 | [**Namada**](https://github.com/anoma/namada-testnets/pull/2976) | Reliable network services with Inter-Blockchain Communication and active contributions to the ecosystem. |
 | [**Nillion**](https://testnet.nillion.explorers.guru/validator/nillionvaloper1486zxw3x7jx3gsrluhn3swuumqm2flth48f7mu) | Engage with a community-focused platform offering robust staking rewards and development support. |
 | [**Juneo**](https://socotra.mcnscan.io/chain/xZKJp7mKnq5QVaQFdXqL8HPf8fiGr53J7QthEPhZh4gEQ9Efu) | Participate in a cutting-edge network designed for innovative blockchain solutions. |
+| [**0G**](https://explorer.validator247.com/zero-gravity-testnet/staking/0gvaloper1krhhaq20pyqa7f89wueel4sxdl38l29tjl55mm) | Dependable Proof-of-Stake validator, offering service provision, Inter-Blockchain Communication, and active ecosystem contributions. |
 | [**Dymension**](https://devnet.dymension.xyz/rollapp/cronus_4825386-1/metrics) | Explore advanced staking opportunities and contribute to the decentralized ecosystem. |
 | [**Nillion**](https://testnet.nillion.explorers.guru/validator/nillionvaloper1uh95s2ey4zx25gasd86mnf3l3qh2urq7uy7qn4d) | Become a part of our journey to shape the future of decentralized finance and blockchain technology.|
 | [**Islamic Coin**](https://testnet.ping.pub/haqq/staking/haqqvaloper1kjzafc2zqsshhvj8kn3vhy6n8hk9wxrup7hsfj) | Support ethical finance initiatives through decentralized staking and reward systems. |
