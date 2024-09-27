@@ -29,10 +29,10 @@
 | [**Namada**](https://github.com/anoma/namada-testnets/pull/2976) | Reliable network services with Inter-Blockchain Communication and active contributions to the ecosystem. |
 | [**Nillion**](https://testnet.nillion.explorers.guru/validator/nillionvaloper1486zxw3x7jx3gsrluhn3swuumqm2flth48f7mu) | Engage with a community-focused platform offering robust staking rewards and development support. |
 | [**Juneo**](https://socotra.mcnscan.io/chain/xZKJp7mKnq5QVaQFdXqL8HPf8fiGr53J7QthEPhZh4gEQ9Efu) | Participate in a cutting-edge network designed for innovative blockchain solutions. |
-| [**0G**](https://explorer.validator247.com/zero-gravity-testnet/staking/0gvaloper1krhhaq20pyqa7f89wueel4sxdl38l29tjl55mm) | Dependable Proof-of-Stake validator, offering service provision, Inter-Blockchain Communication, and active ecosystem contributions. |
 | [**Dymension**](https://devnet.dymension.xyz/rollapp/cronus_4825386-1/metrics) | Explore advanced staking opportunities and contribute to the decentralized ecosystem. |
 | [**Nillion**](https://testnet.nillion.explorers.guru/validator/nillionvaloper1uh95s2ey4zx25gasd86mnf3l3qh2urq7uy7qn4d) | Become a part of our journey to shape the future of decentralized finance and blockchain technology.|
 | [**Islamic Coin**](https://testnet.ping.pub/haqq/staking/haqqvaloper1kjzafc2zqsshhvj8kn3vhy6n8hk9wxrup7hsfj) | Support ethical finance initiatives through decentralized staking and reward systems. |
+| [**0G**](https://explorer.validator247.com/zero-gravity-testnet/staking/0gvaloper1krhhaq20pyqa7f89wueel4sxdl38l29tjl55mm) | Dependable Proof-of-Stake validator, offering service provision, Inter-Blockchain Communication, and active ecosystem contributions. |
 | [**Babylon**](https://github.com/babylonchain/networks/pull/290) | Join a trusted validator in the growing Babylon network, fostering secure and scalable blockchain solutions. |
 | [**MANTRA**](https://testnet.mantra.explorers.guru/validator/mantravaloper15tu9srh4qwdqjx045aht48u59kh8tujfpgh6sr2424) | Join us in redefining the future of decentralized finance and blockchain technology.|
 
